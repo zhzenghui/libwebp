@@ -2,7 +2,7 @@
   "name": "libwebp",
   "version": "0.6.0",
   "summary": "Library to encode and decode images in WebP format.",
-  "homepage": "https://developers.google.com/speed/webp/",
+  "homepage": "https://github.com/zhzenghui/libwebp",
   "authors": "Google Inc.",
   "license": {
     "type": "BSD",
